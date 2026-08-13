@@ -1,6 +1,6 @@
 # Trivia Quest
 
-Part of the **MetaPlay: A Multi Game Offline Platform** — a knowledge-based quiz game with a clean, minimal interface designed to support focus and learning.
+A Unity knowledge-based quiz game with a clean, minimal interface designed to support focus and learning.
 
 ## Description
 An MCQ (multiple choice question) trivia game that pulls questions from a local question bank. Players select the correct answer under a countdown timer to score points.
@@ -23,12 +23,12 @@ An MCQ (multiple choice question) trivia game that pulls questions from a local 
 3. Add this folder as a project
 4. Open the main scene and press Play
 
-## Testing Notes (from FYP documentation)
+## Testing Notes
 - Verified: selecting the correct option increases score and highlights green
 - Verified: letting the timer run out with no input auto-advances the question with no score change
 
 ## Status
-Completed — part of MetaPlay FYP (Fall 2025 – Spring 2026)
+Completed
 
-## Credits
-Syed Kazim Raza, M. Arshmaan Attique, Hamza Javed — BS Computer Science, University of Management and Technology, Lahore
+---
+*Built with Unity — actively maintained and improved.*
